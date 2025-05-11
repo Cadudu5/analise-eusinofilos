@@ -1,2 +1,3 @@
 # analise-eusinofilos
-Trabalho para a disciplina de Processamento de Imagens 
+Projeto em parceria com a Faculdade de Medicina de Santa Casa
+Envolve a contagem de eusinófinos e neutrófilos em imagens lâminas de biopsia de rinossinusite
