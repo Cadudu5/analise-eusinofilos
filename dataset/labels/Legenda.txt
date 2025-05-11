@@ -1,0 +1,2 @@
+Eosinófilos estão marcados em azul
+Neutrófilos estão marcados em branco
