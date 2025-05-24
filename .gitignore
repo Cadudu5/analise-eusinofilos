@@ -1,3 +1,47 @@
+# Ambiente virtual Python
 venv/
-other/
+env/
+.venv/
+.virtualenv/
+
+# Pesos de modelos treinados e checkpoints
 *.pt
+*.pth
+*.ckpt
+
+# Dados/datasets pesados (opcional)
+datasets/
+dataset/
+dataset_preprocessed/
+runs/
+data/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Cache do Python e Jupyter Notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints
+
+# Logs e outputs de treino/teste
+*.log
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+
+# IDEs específicas
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Outros diretórios específicos do usuário
+other/
