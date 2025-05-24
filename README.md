@@ -1,3 +1,2 @@
 # analise-eusinofilos
-Projeto em parceria com a Faculdade de Medicina de Santa Casa
-Envolve a contagem de eusinófinos e neutrófilos em imagens lâminas de biopsia de rinossinusite
+This project aims to develop an artificial intelligence model capable of automatically detecting and counting eosinophils in histological images of nasal polyps. Accurate eosinophil quantification is essential for diagnosing subtypes of chronic rhinosinusitis and guiding the use of immunobiologic treatments. Manual counting, however, is time-consuming and subject to inter-observer variability. To address this, we use the YOLOv8 object detection architecture, fine-tuned on a custom dataset of histological images labeled with eosinophil locations. The system improves diagnostic consistency and enables broader access to eosinophil analysis in clinical and research settings.
